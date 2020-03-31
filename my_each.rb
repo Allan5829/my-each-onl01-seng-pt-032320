@@ -1,6 +1,6 @@
-array = []
+array = [00, 01, 10, 11, 100, 101, 110, 111]
 
-def my_each (00, 01, 10, 11, 100, 101, 110, 111)
+def my_each (array)
 if block_given?
     i = 0
  
